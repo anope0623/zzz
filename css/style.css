@@ -1,6 +1,7 @@
 @charset "UTF-8";
 * {
   font-family: 微軟正黑體;
+  border: dashed 0.5px #857
 }
 
 body {
